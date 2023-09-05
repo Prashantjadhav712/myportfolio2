@@ -94,18 +94,18 @@ h4 {
     position: absolute;
     width:160%;
     left: 40px;
-    top: -200px;
+    top: -100px;
     background-size:cover;
     border-radius: 84%;
-    height: 140%;
+    height: 150%;
    
 }
     
 
 
 .circle {
-    width: 17rem;
-    height: 19rem;
+    width: 15rem;
+    height: 17rem;
     border-radius: 50%;
     padding: 1rem;
     position: relative;
